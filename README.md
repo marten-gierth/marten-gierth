@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marten-gierth
+- 👋 Hi, I’m Marten
 - 👀 I’m interested in webdesign and photography
 - 🌱 I’m currently studying Media Informatics & Media Design
 - 😄 Pronouns: He/ Him
