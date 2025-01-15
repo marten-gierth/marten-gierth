@@ -1,7 +1,5 @@
 <div align="center" style="margin-top: 2rem"><img src="https://martengierth.de/favicon/favicon.svg" width="80" height="80" /></div>
 <h1 align="center">Moin 👋, I'm Marten</h1>
-<h3 align="center">A passionate front-end and game developer from Germany, currently studying Media Informatics & Media Design</h3>
-
 <h3 align="left">Projects</h3>
 <a href="https://cavemanhitsgiraffeinacar.github.io/" target="_blank">
 <img src="https://cdn.discordapp.com/emojis/1298384323166343220.webp?size=40" alt="Caveman Hits Giraffe in a Car" />
@@ -27,7 +25,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marten-gierth&" alt="Marten Gierth GitHub Streak" />
 </p>
