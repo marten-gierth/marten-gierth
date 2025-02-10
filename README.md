@@ -1,4 +1,4 @@
-<div align="center" style="margin-top: 2rem"><img src="https://martengierth.de/favicon/favicon.svg" width="80" height="80" /></div>
+<div align="center" style="margin-top: 2rem"><img src="https://mgierth.de/favicon.svg" width="80" height="80" /></div>
 <h1 align="center">Moin 👋, I'm Marten</h1>
 <h3 align="left">Projects</h3>
 <a href="https://cavemanhitsgiraffeinacar.github.io/" target="_blank">
