@@ -2,16 +2,12 @@
 <div style="margin-top: 2rem"><img src="https://martengierth.de/favicon.svg" width="80" height="80" /></div>
 <h1>Moin 👋, I'm Marten</h1>
 </div>
-<a href="https://linkedin.com/in/marten-gierth/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn badge">
-  </a>
 
 - Play my game: [Caveman Hits Giraffe in a Car](https://cavemanhitsgiraffeinacar.github.io/) 
 - Visit my portfolio: [mgierth.de](https://mgierth.de)
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marten-gierth&layout=compact&theme=dark&card_width=500"align="right">
 
-&nbsp;My Tech Stack:
 <p align="left">
 <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" alt="Astro badge">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git badge">
@@ -28,3 +24,6 @@
 <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian badge">
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown badge">
 </p>
+<a href="https://linkedin.com/in/marten-gierth/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn badge">
+  </a>
