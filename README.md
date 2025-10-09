@@ -12,7 +12,7 @@
 - Let's connect on: <br>
 <a href="https://linkedin.com/in/marten-gierth/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn badge"></a>
 <br>
-<img src="https://github-readme-stats-self-kappa-78.vercel.app/api/top-langs/?username=marten-gierth&langs_count=10&layout=compact&theme=dark&card_width=500"align="right">
+<img src="https://github-readme-stats-self-kappa-78.vercel.app/api/top-langs/?username=marten-gierth&exclude_repo=github-readme-stats,game-jam-2024&langs_count=8&layout=compact&theme=dark&card_width=500"align="right">
 
 <b>My Teckstack:</b> <br>
 <p align="left">
