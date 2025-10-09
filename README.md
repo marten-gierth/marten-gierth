@@ -6,7 +6,7 @@
 - Play my game: [Caveman Hits Giraffe in a Car](https://cavemanhitsgiraffeinacar.github.io/) 
 - Visit my portfolio: [mgierth.de](https://mgierth.de)
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marten-gierth&layout=compact&theme=dark&card_width=500"align="right">
+<img src="https://github-readme-stats-self-kappa-78.vercel.app/api/top-langs/?username=marten-gierth&langs_count=10&layout=compact&theme=dark&card_width=500"align="right">
 
 <p align="left">
 <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" alt="Astro badge">
