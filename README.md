@@ -1,5 +1,5 @@
 <div align="center">
-<div style="margin-top: 2rem"><img src="https://c.tenor.com/fKIG2kiLVPgAAAAC/tenor.gif" height="200" /></div>
+<div style="margin-top: 2rem"><img src="https://c.tenor.com/fz0-SXi2-FcAAAAC/tenor.gif" height="200" /></div>
 
 <h1>Moin 👋, I'm Marten</h1>
 </div>
