@@ -1,8 +1,9 @@
 <div align="center">
-<div style="margin-top: 2rem"><img src="https://c.tenor.com/fz0-SXi2-FcAAAAC/tenor.gif" height="200" /></div>
+<div style="margin-top: 2rem"><img src="https://i.imgur.com/VgF1p9C.gif" height="200" /></div>
+
 
 <h1>Moin 👋, I'm Marten</h1>
-</div>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" alt="Astro badge">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt"TypeScript badge">
@@ -13,7 +14,7 @@
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C# badge">
 <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian badge">
 </p>
-
+</div>
 <br>
 <img src="https://github-readme-stats-self-kappa-78.vercel.app/api/top-langs/?username=marten-gierth&exclude_repo=github-readme-stats&langs_count=10&layout=compact&theme=dark&card_width=500"align="right">
 
