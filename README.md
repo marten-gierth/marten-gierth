@@ -1,5 +1,5 @@
 <div align="center">
-<div style="margin-top: 2rem"><img src="https://martengierth.de/favicon.svg" width="120" height="120" /></div>
+<div style="margin-top: 2rem"><img src="https://c.tenor.com/fKIG2kiLVPgAAAAC/tenor.gif" height="200" /></div>
 
 <h1>Moin 👋, I'm Marten</h1>
 </div>
@@ -25,5 +25,3 @@
 <a href="https://mgierth.de" target="_blank"> <img src="https://img.shields.io/badge/Website-EFEFEF" alt="Website badge"></a>
 - Let's connect on: <br>
 <a href="https://linkedin.com/in/marten-gierth/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn badge"></a>
-
-
