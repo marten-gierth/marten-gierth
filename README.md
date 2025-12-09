@@ -16,7 +16,7 @@
 </p>
 </div>
 <br>
-<img src="https://github-readme-stats-self-kappa-78.vercel.app/api/top-langs/?username=marten-gierth&exclude_repo=github-readme-stats&langs_count=10&hide=HLSL,%20ShaderLab&layout=compact&theme=dark&card_width=500align=%22right%22">
+<img src="https://github-readme-stats-self-kappa-78.vercel.app/api/top-langs/?username=marten-gierth&exclude_repo=github-readme-stats&langs_count=10&hide=HLSL,ShaderLab,Mathematica,Dockerfile&layout=compact&theme=dark&card_width=500align=%22right%22">
 
 - Play my game Caveman Hits Giraffe in a Car:<br>
 <a href="https://cavemanhitsgiraffeinacar.github.io/" target="_blank"> <img src="https://img.shields.io/badge/Website-EFEFEF" alt="Website badge"></a>
